@@ -53,7 +53,7 @@ Our team has rich research experience in temporal data analysis. We have publish
 <img align="left" src="figs/Di.jpg" width="80" >**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences.  His research interest lies on causal machine learning and spatio-temporal data mining.
 
 
-**[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
+<img align="left" src="figs/Chuzhe.jpg" width="80" >**[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
 
 
 **[Wenbi Li]()** is currently a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from the University of Science and Technology of China. His research interests include time-series analysis, anomaly detection, and causal inference.
