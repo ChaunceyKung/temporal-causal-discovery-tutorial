@@ -42,13 +42,35 @@ Temporal data representing chronological observations of complex systems can be 
 ## Key References (to upload)
 
 
-## Short Bio of Lecturers (to upload)
+## Short Bio of Lecturers
+
+Our team has rich research experience in temporal data analysis. We have published over 30 papers on trajectory representation learning, anomaly detection, and causal inference. During our research, we found that the causal structure underlying the temporal data would be generally beneficial to many tasks. Thus, we summarize the cutting-edge techniques of causal discovery and propose this tutorial.
+
+**[Chang Gong](https://scholar.google.com.hk/citations?user=DfmjrYkAAAAJ&hl=en)** is currently a second-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from Tongji University, Shanghai, China, in 2021. His research interests include causal discovery, computational advertising, and root cause analysis.
+
+**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences.  His research interest lies on causal machine learning and spatio-temporal data mining.
+
+**[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
+
+**[Wenbi Li]()** is currently a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from the University of Science and Technology of China. His research interests include time-series analysis, anomaly detection, and causal inference.
+
+**[Jingping Bi]()** is currently a full professor at the Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. in 2002 from the Institute of Computing Technology, Chinese Academy of Sciences. Her research interests include network measurement, routing, virtualization, SDN, and big data. She is an IEEE Member.
+
+## Cite our work 
+
+If you find our work useful, please cite our work
+- KDD 2023 Tutorial (Causal Discovery from Temporal Data)
+- Survey paper (Causal Discovery from Temporal Data: An Overview and New Perspectives)
+```
+@article{gong2023causal,
+  title={Causal Discovery from Temporal Data: An Overview and New Perspectives},
+  author={Gong, Chang and Yao, Di and Zhang, Chuzhe and Li, Wenbin and Bi, Jingping},
+  journal={arXiv preprint arXiv:2303.10112},
+  year={2023}
+}
+```
 
 
-## Cite our work (to upload)
 
-
-
-
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8szPTSzsKjr4sJsqpi8rGoh4vjdKjatvub51BhT0rEc&cl=ffffff&w=a"></script>
 
