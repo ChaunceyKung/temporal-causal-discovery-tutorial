@@ -46,15 +46,21 @@ Temporal data representing chronological observations of complex systems can be 
 
 Our team has rich research experience in temporal data analysis. We have published over 30 papers on trajectory representation learning, anomaly detection, and causal inference. During our research, we found that the causal structure underlying the temporal data would be generally beneficial to many tasks. Thus, we summarize the cutting-edge techniques of causal discovery and propose this tutorial.
 
+
 <img align="left" src="figs/Chang.jpg" width="180" >**[Chang Gong](https://scholar.google.com.hk/citations?user=DfmjrYkAAAAJ&hl=en)** is currently a second-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from Tongji University, Shanghai, China, in 2021. His research interests include causal discovery, computational advertising, and root cause analysis.
+
 
 <img align="left" src="figs/Di.jpg" width="180" >**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences.  His research interest lies on causal machine learning and spatio-temporal data mining.
 
+
 **[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
+
 
 **[Wenbi Li]()** is currently a Ph.D. candidate at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from the University of Science and Technology of China. His research interests include time-series analysis, anomaly detection, and causal inference.
 
+
 **[Jingping Bi]()** is currently a full professor at the Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. in 2002 from the Institute of Computing Technology, Chinese Academy of Sciences. Her research interests include network measurement, routing, virtualization, SDN, and big data. She is an IEEE Member.
+
 
 ## Cite our work 
 
