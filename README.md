@@ -1,2 +1,5 @@
-# temporal-causal-discovery-tutorial
-Website for our tutorial: Causal Discovery from Temporal Data
+
+Welcome to our Tutorial, "Causal Discovery from Temporal Data".
+
+Website: 
+
