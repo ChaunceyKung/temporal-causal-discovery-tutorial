@@ -12,7 +12,7 @@ Temporal data representing chronological observations of complex systems can be 
 
 ## Tutorial Materials and Outline
 
-### Tutorial slides (to upload)
+### Tutorial slides (to be updated)
 
 ### Our [[survey paper]](https://arxiv.org/abs/2303.10112) 
 
@@ -39,7 +39,7 @@ Temporal data representing chronological observations of complex systems can be 
   - Applications: root cause analysis, anomaly detection, video analysis, bioinformatics, business intelligence in E-commerce, urban data analysis, etc.
   - New Perspectives: amortized casual discovery, supervised casual discovery, and causal representation learning
 
-## Key References (to upload)
+## Key References (to be updated)
 
 
 ## Short Bio of Lecturers
