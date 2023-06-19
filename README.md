@@ -50,7 +50,7 @@ Our team has rich research experience in temporal data analysis. We have publish
 <img align="left" src="figs/Chang.jpg" width="80" >**[Chang Gong](https://scholar.google.com.hk/citations?user=DfmjrYkAAAAJ&hl=en)** is currently a second-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences. He received the B.S. degree in computer science and technology from Tongji University, Shanghai, China, in 2021. His research interests include causal discovery, computational advertising, and root cause analysis.
 
 
-<img align="left" src="figs/Di.jpg" width="80" >**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences.  His research interest lies on causal machine learning and spatio-temporal data mining.
+<img align="left" src="figs/Di.jpg" width="80" >**[Di Yao](http://www.yaodi.info/)** is an associate professor at the Institute of Computing Technology, Chinese Academy of Sciences. Before joining ICT, he obtained my Ph.D. degree in University of Chinese Academy of Sciences supervised by Prof. Jingping Bi. Previously he conducted one year visiting at DMAL, Nanyang Technological University under the supervision of Prof. Gao Cong. His research interest lies on time series analysis, anomaly detection and causal discovery.
 
 
 <img align="left" src="figs/Chuzhe.jpg" width="80" >**[Chuzhe Zhang]()** is an AI research assistant at the Institute of Computing Technology, Chinese Academy of Sciences. He received his BS degree from Fudan University in 2023. His research interests include temporal causal discovery and financial time-series forecasting.
@@ -60,6 +60,11 @@ Our team has rich research experience in temporal data analysis. We have publish
 
 
 <img align="left" src="figs/Jingping.jpg" width="80" >**[Jingping Bi](http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496583.html)** is currently a full professor at the Institute of Computing Technology, Chinese Academy of Sciences. She received her Ph.D. in 2002 from the Institute of Computing Technology, Chinese Academy of Sciences. Her research interests include network measurement, routing, virtualization, SDN, and big data. She is an IEEE Member.
+
+<img align="left" src="figs/DU.png" width="80" >**[Lun Du](https://www.microsoft.com/en-us/research/people/ludu/)** is a Senior Researcher in the DKI (Data, Knowledge, Intelligence) area at Microsoft Research Asia. He has been working in the same research group since he joined Microsoft in July 2019. His research interests include techniques of machine learning, data mining, graph models and their applications in software engineering, and tabular data understanding. He has published 40+ papers in top conferences and journals, such as KDD, WWW,  NeurIPS, ICLR, ICSE, IJCAI, AAAI, ACL, EMNLP, WSDM, CIKM, TKDD, etc., and his papers won the Best Paper Runner-up Award at CIKM’19 and Best Short Paper Award at CIKM’21. He has been a senior PC member of IJCAI’21 and a PC member of AAAI’21 22 23, WWW’20 22 23, ICML’22 23, KDD’22 23, NeurIPS’22 23, and WSDM’23. Before joining Microsoft Research, he received his M.S. from Peking University, Beijing, China, in 2019.
+
+<img align="left" src="figs/Wang.jpg" width="80" >**[Jin Wang](https://www.jinwang18.net/)** is a Research Scientist and Research Lead in Megagon Labs. He obtained his Ph.D. degree from Computer Science Department, University of California, Los Angeles in July 2020 under the supervision of Professor Carlo Zaniolo. Before that, he obtained his Master degree of Engineering from Department of Computer Science and Technology, Tsinghua Univeristy in 2015. His research interest lies in the broad areas of database, machine learning and information retrieval. In particular, his research focuses on Database Query Language, Database System and using database technologies to boost the applications in data integration and natural language processing. He is a member of ACM and IEEE.
+
 
 
 ## Cite our work 
