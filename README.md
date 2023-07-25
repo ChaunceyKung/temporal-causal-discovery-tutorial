@@ -65,6 +65,9 @@ Our team has rich research experience in temporal data analysis. We have publish
 
 <img align="left" src="figs/Wang.jpg" width="80" >**[Jin Wang](https://www.jinwang18.net/)** is a Research Scientist and Research Lead in Megagon Labs. He obtained his Ph.D. degree from Computer Science Department, University of California, Los Angeles in July 2020 under the supervision of Professor Carlo Zaniolo. Before that, he obtained his Master degree of Engineering from Department of Computer Science and Technology, Tsinghua Univeristy in 2015. His research interest lies in the broad areas of database, machine learning and information retrieval. In particular, his research focuses on Database Query Language, Database System and using database technologies to boost the applications in data integration and natural language processing. He is a member of ACM and IEEE.
 
+<img align="left" src="figs/jiayin.jpg" width="80" >**[Jiayan Guo]()** is a PhD candidate at Peking University. He received B.S. degree at Beijing Institute and Technology at 2019. His research interests include data mining, natural language processing, graph machine learning and their applications for recommender systems. He has published papers on top-tier conferences like KDD, WWW, WSDM and CIKM. His paper won the Best Paper Award Honorable Mention at WSDM 2023.
+
+
 
 
 ## Cite our work 
