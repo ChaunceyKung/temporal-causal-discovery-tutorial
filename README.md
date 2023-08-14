@@ -78,15 +78,7 @@ Our team has rich research experience in temporal data analysis. We have publish
 
 If you find our work useful, please cite our work
 - KDD 2023 Tutorial (Causal Discovery from Temporal Data)
-- Survey paper (Causal Discovery from Temporal Data: An Overview and New Perspectives)
 ```
-@article{gong2023causal,
-  title={Causal Discovery from Temporal Data: An Overview and New Perspectives},
-  author={Gong, Chang and Yao, Di and Zhang, Chuzhe and Li, Wenbin and Bi, Jingping},
-  journal={arXiv preprint arXiv:2303.10112},
-  year={2023}
-}
-
 @inproceedings{kdd/Gong0ZLBDW23,
   author       = {Chang Gong and
                   Di Yao and
@@ -101,6 +93,15 @@ If you find our work useful, please cite our work
   pages        = {5803--5804},
   publisher    = {{ACM}},
   year         = {2023}
+}
+```
+- Survey paper (Causal Discovery from Temporal Data: An Overview and New Perspectives)
+```
+@article{gong2023causal,
+  title={Causal Discovery from Temporal Data: An Overview and New Perspectives},
+  author={Gong, Chang and Yao, Di and Zhang, Chuzhe and Li, Wenbin and Bi, Jingping},
+  journal={arXiv preprint arXiv:2303.10112},
+  year={2023}
 }
 ```
 
