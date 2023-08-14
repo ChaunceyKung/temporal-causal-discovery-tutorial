@@ -13,6 +13,11 @@ Temporal data representing chronological observations of complex systems can be 
 ## Tutorial Materials and Outline
 
 ### Tutorial slides (to be updated)
+* [[Part 1]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%201_Introduction.pdf) Introduction
+* [[Part 2]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%202_MTS.pdf) MTS
+* [[Part 3]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%203_Event.pdf) Event sequence
+* [[Part 4]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%204_Discussion.pdf) Discussion
+
 
 ### Our [[survey paper]](https://arxiv.org/abs/2303.10112) 
 
@@ -39,7 +44,6 @@ Temporal data representing chronological observations of complex systems can be 
   - Applications: root cause analysis, anomaly detection, video analysis, bioinformatics, business intelligence in E-commerce, urban data analysis, etc.
   - New Perspectives: amortized casual discovery, supervised casual discovery, and causal representation learning
 
-## Key References (to be updated)
 
 
 ## Short Bio of Lecturers and Contributors
@@ -81,6 +85,22 @@ If you find our work useful, please cite our work
   author={Gong, Chang and Yao, Di and Zhang, Chuzhe and Li, Wenbin and Bi, Jingping},
   journal={arXiv preprint arXiv:2303.10112},
   year={2023}
+}
+
+@inproceedings{kdd/Gong0ZLBDW23,
+  author       = {Chang Gong and
+                  Di Yao and
+                  Chuzhe Zhang and
+                  Wenbin Li and
+                  Jingping Bi and
+                  Lun Du and
+                  Jin Wang},
+  title        = {Causal Discovery from Temporal Data},
+  booktitle    = {Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, {KDD} 2023, Long Beach, CA, USA, August 6-10, 2023},
+  pages        = {5803--5804},
+  publisher    = {{ACM}},
+  year         = {2023}
 }
 ```
 
