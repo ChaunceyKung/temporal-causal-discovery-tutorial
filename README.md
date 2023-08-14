@@ -91,7 +91,7 @@ If you find our work useful, please cite our work
   booktitle    = {Proceedings of the 29th {ACM} {SIGKDD} Conference on Knowledge Discovery
                   and Data Mining, {KDD} 2023, Long Beach, CA, USA, August 6-10, 2023},
   pages        = {5803--5804},
-  publisher    = {{ACM}},
+  publisher    = {ACM},
   year         = {2023}
 }
 ```
