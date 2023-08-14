@@ -12,7 +12,7 @@ Temporal data representing chronological observations of complex systems can be 
 
 ## Tutorial Materials and Outline
 
-### Tutorial slides (to be updated)
+### Tutorial slides
 * [[Part 1]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%201_Introduction.pdf) Introduction
 * [[Part 2]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%202_MTS.pdf) MTS
 * [[Part 3]](https://github.com/ChaunceyKung/temporal-causal-discovery-tutorial/blob/main/slides/KDD_Causal_Discovery_Part%203_Event.pdf) Event sequence
